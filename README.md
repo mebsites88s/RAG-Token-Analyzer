@@ -55,7 +55,7 @@ Automatic detection of:
 
 ```bash
 # Clone
-git clone https://github.com/pixeloni/rag-token-analyzer.git
+git clone https://github.com/mebsites88s/RAG-Token-Analyzer.git
 cd rag-token-analyzer
 
 # Install
