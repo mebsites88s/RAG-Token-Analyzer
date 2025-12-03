@@ -1,0 +1,39 @@
+{
+  "name": "rag-token-analyzer",
+  "version": "1.0.0",
+  "description": "Analyze content chunking and attention patterns for LLM citation optimization",
+  "author": "PixelOni.ai",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pixeloni/rag-token-analyzer"
+  },
+  "homepage": "https://pixeloni.ai/tools/token-analyzer",
+  "keywords": [
+    "seo",
+    "llm",
+    "rag",
+    "tokenizer",
+    "gpt",
+    "claude",
+    "gemini",
+    "content-optimization",
+    "citation-optimization"
+  ],
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@vitejs/plugin-react": "^4.2.0",
+    "vite": "^5.0.0"
+  }
+}
